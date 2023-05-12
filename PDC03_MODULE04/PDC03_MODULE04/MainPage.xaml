@@ -5,6 +5,10 @@
 
     <StackLayout>
         <Button Text="Activity01-ListView" Clicked="OpenActivity01"/>
+        <Button Text="Activity02-Unbound" Clicked="OpenActivity02"/>
+        <Button Text="Activity03-Navigation" Clicked="OpenActivity03"/>
+        <Button Text="Activity04-Carousel" Clicked="OpenActivity04"/>
+        <Button Text="Activity05-ListView" Clicked="OpenActivity05"/>
     </StackLayout>
 
 </ContentPage>
